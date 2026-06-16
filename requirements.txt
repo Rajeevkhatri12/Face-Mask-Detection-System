@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+SQLAlchemy
+pydantic-settings
+opencv-python-headless
+numpy
+Pillow
+reportlab
+aiofiles
+psycopg[binary]
+vercel

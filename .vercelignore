@@ -1,0 +1,11 @@
+.git
+.claude
+backend/.venv
+backend/model/*.h5
+backend/database/*.db
+backend/uploads
+backend/reports
+frontend/node_modules
+frontend/dist
+training/dataset
+training/artifacts
