@@ -269,3 +269,4 @@ Important variables:
 - Review consent/privacy requirements before storing face-related images.
 - Put Nginx or a cloud load balancer behind HTTPS in public deployments.
 - Backup the SQLite database and uploaded annotated images if they are operational records.
+Deployment update
